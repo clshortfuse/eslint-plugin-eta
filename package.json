@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-eta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An ESLint plugin so you can lint Eta template files",
   "main": "lib/index.js",
   "scripts": {
@@ -18,8 +18,8 @@
   "author": "shadowtime2000",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">=0.8.0",
-    "eta": "=>1.0.0"
+    "eslint": "^0.8.0",
+    "eta": "^1.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.5.0",
